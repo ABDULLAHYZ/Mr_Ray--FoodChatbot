@@ -1,1 +1,1 @@
-# Heading, *boldtext*
+# Heading, *bold*
