@@ -6,7 +6,7 @@ Mr. Ray is an intelligent, conversational food ordering chatbot developed using 
 
 - Conversational chatbot built with **Dialogflow ES**
 - Handles:
-  - 🍕 Single and multiple food orders
+  - 🍕 Food orders
   - 🪑 Table reservations (book, check, cancel)
   - 🧾 Order status tracking
 - Fully functional **FastAPI** backend
